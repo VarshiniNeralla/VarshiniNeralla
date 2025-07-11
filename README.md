@@ -54,7 +54,7 @@
 
 🔧 Tech: Angular · Node.js · PostgreSQL · Flask · Python  
 ✨ Features: Real-time dashboards, staff allocation, ML predictions, alerts  
-📁 Repo: [View on GitHub](https://github.com/VarshiniNeralla/medi-metrics)
+📁 Repo: [View on GitHub](https://github.com/VarshiniNeralla/MediMetrics.git)
 
 ---
 
