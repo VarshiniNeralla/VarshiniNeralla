@@ -14,9 +14,9 @@
 ## 👩‍💻 About Me
 
 - 🛠️ Currently building: Real-time healthcare dashboards and agent-based automation tools  
-- 🌍 Working with: Angular JS, Flask APIs, OpenCV, and full-stack deployment and development
+- 🌍 Working with: Angular JS, full-stack deployment and development, Flask APIs, OpenCV
 - 🤝 Collaborating on: Scalable web apps, AI-powered tools, and computer vision workflows  
-- 🚀 Projects include: MediMetrics, Car Rental App, Sunglasses Filter, Sentiment Analyzer  
+- 🚀 Projects include: MediMetrics, Car Rental App, Sentiment Analyzer and more  
 - 🎯 Preparing for: Campus placements and tech interviews  
 - 📩 Reach me at: varshinineralla9@gmail.com  
 - 💬 Motto: “Build for real-world impact — not just for grades.”
