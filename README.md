@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F8F8F2&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Varshini+Neralla.;Full-stack+developer+%7C+CS+student.;I+love+building+real-time+apps+and+dashboards." alt="Typing SVG" />
 
-<img src="https://svgshare.com/i/umP.svg" width="100%" height="90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F76D6D&height=90&section=footer" width="100%" height="90"/>
 
 </div>
 
