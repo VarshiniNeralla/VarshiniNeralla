@@ -16,7 +16,7 @@
 ## 👩‍💻 About Me
 
 - 🔭 Currently building: Real-time **healthcare dashboards** and **agentic workflows**
-- 🧠 Exploring: **Flask**, **MediaPipe**, **Node.js**, and **deployment pipelines**
+- 🧠 Exploring: Real-time video processing, Flask APIs, MediaPipe filters, and full-stack deployment workflows
 - 💪 Looking to collaborate on: Full-stack apps, AI-integrated tools, and CV-based systems
 - 💡 Projects include: Hospital Ops Dashboard, Car Rental System, Sentiment Analyzer
 - 📚 Prepping for: Campus placements
@@ -43,7 +43,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
