@@ -1,8 +1,12 @@
 # 👋 Hi there, I'm Varshini Neralla!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=1000&color=F8F8F2&center=true&vCenter=true&width=900&lines=Hi+I'm+Varshini+Neralla+%F0%9F%92%BB;Crafting+Smart+Dashboards+for+Real+World+Healthcare;OpenCV+Wizard+%7C+ML+Explorer+%7C+Flask+Fan+Girl;Final+Year+CS+Student+on+a+Mission+to+Build+Cool+Things!" alt="Typing SVG" />
-</p>
+<div align="center">
+
+### 💫 Hi, I'm Varshini Neralla
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=3500&pause=1000&color=F8F8F2&center=true&vCenter=true&width=850&lines=I'm+a+CS+student+who+builds+full-stack+solutions+that+solve+real+problems.;I+work+with+Angular,+Node.js,+Express,+Python+%26+OpenCV.;I+create+real-time+apps+%26+automated+workflows.;I+turn+tech+challenges+into+clean+code+daily.;I'm+looking+to+join+a+team+that+builds+great+software+together." alt="Typing SVG" />
+
+</div>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VarshiniNeralla&color=brightgreen)
