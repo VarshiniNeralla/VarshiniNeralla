@@ -58,6 +58,15 @@
 
 ---
 
+### 🚗 Car Rental App (Angular + JSON Server)
+> A modern web application that allows users to browse and book cars in real-time with a clean frontend and mock backend.
+
+🔧 Tech: Angular · JSON Server · Bootstrap  
+✨ Features: Car listing, availability filtering, mock REST API  
+📁 Repo: [View on GitHub](https://github.com/VarshiniNeralla/CarRentalApp)
+
+---
+
 ### 😎 Sunglasses Overlay Web App (OpenCV + Flask)
 > A fun project that overlays sunglasses on your face in real-time using Haar cascades and a live webcam stream.
 
