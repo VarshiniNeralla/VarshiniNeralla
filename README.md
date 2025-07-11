@@ -1,11 +1,10 @@
 <!-- Header Typing Animation -->
+
 <div align="center">
 
-# 💫 Hi there, I'm Varshini Neralla!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F8F8F2&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Varshini+Neralla.;Full-stack+developer+%7C+CS+student.;I+love+building+real-time+apps+and+dashboards." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=27&duration=4000&pause=1000&color=D462FF&center=true&vCenter=true&width=850&lines=I'm+a+CS+student+who+builds+full-stack+solutions+that+solve+real+problems.;I+work+with+Angular,+Node.js,+Express,+Python+%26+OpenCV.;I+create+real-time+apps+%26+automated+workflows.;I+turn+tech+challenges+into+clean+code+daily.;I'm+looking+to+join+a+team+that+builds+great+software+together." alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=VarshiniNeralla&color=brightgreen)
+<img src="https://svgshare.com/i/umP.svg" width="100%" height="90" />
 
 </div>
 
