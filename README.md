@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Varshini Neralla!
+# 💫 Hi there, I'm Varshini Neralla!
 
 <div align="center">
 
-### 💫 Hi, I'm Varshini Neralla
+###  So,
 
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=3500&pause=1000&color=F8F8F2&center=true&vCenter=true&width=850&lines=I'm+a+CS+student+who+builds+full-stack+solutions+that+solve+real+problems.;I+work+with+Angular,+Node.js,+Express,+Python+%26+OpenCV.;I+create+real-time+apps+%26+automated+workflows.;I+turn+tech+challenges+into+clean+code+daily.;I'm+looking+to+join+a+team+that+builds+great+software+together." alt="Typing SVG" />
 
