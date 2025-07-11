@@ -71,7 +71,9 @@
 > Browse, filter, and book vehicles in a sleek rental interface built with Angular and mock APIs.
 
 🔧 Tech: Angular · JSON Server · Bootstrap  
-📁 Repo: [View on GitHub](https://github.com/VarshiniNeralla/CarRentalApp)
+🌐 **Live Frontend:** [https://car-rental-ui-g9ov.onrender.com](https://car-rental-ui-g9ov.onrender.com)  
+🔗 **Mock API Backend:** [https://car-rental-backend-1q3u.onrender.com](https://car-rental-backend-1q3u.onrender.com)  
+📁 **Repo:** [View on GitHub](https://github.com/VarshiniNeralla/CarRentalApp)
 
 ---
 
