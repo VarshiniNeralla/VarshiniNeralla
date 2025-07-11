@@ -13,13 +13,14 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently building: Real-time **Healthcare Dashboards** + **Agentic Workflows**
-- 🧠 Exploring: Flask APIs · MediaPipe · OpenCV · Deployment Pipelines · MySQL
-- 💪 Collaborating on: Full-stack apps · AI-integrated tools · Computer Vision Projects
-- 💡 Projects include: **MediMetrics**, **Car Rental App**, **Sunglasses Filter**, **Sentiment Analyzer**
-- 📚 Prepping for: **Campus placements**
-- 📫 Reach me at: **varshinineralla9@gmail.com**
-- 🧠 Motto: *“Build for real-world impact — not just for grades!”*
+- 🛠️ Currently building: Real-time healthcare dashboards and agent-based automation tools  
+- 🌍 Working with: Angular JS, Flask APIs, OpenCV, and full-stack deployment and development
+- 🤝 Collaborating on: Scalable web apps, AI-powered tools, and computer vision workflows  
+- 🚀 Projects include: MediMetrics, Car Rental App, Sunglasses Filter, Sentiment Analyzer  
+- 🎯 Preparing for: Campus placements and tech interviews  
+- 📩 Reach me at: varshinineralla9@gmail.com  
+- 💬 Motto: “Build for real-world impact — not just for grades.”
+
 
 ---
 
