@@ -75,21 +75,21 @@
 
 ---
 
-### 😎 Sunglasses Overlay Web App (OpenCV + Flask)
-> Overlays sunglasses in real-time using Haar cascades and webcam input. Fun + Functional!
-
-🔧 Tech: Flask · OpenCV · HTML/CSS  
-🌐 Live Demo: [Try it Here](https://b6fb11c472d0.ngrok-free.app) *(if active)*  
-📁 Repo: [View on GitHub](https://github.com/VarshiniNeralla/sunglasses-webapp)
-
----
-
 ### 🧠 Sentiment Analyzer
 > NLP tool to extract insights from large feedback files, summarizing them by product.
 
 🔧 Tech: Python · Flask · NLTK  
 🏆 Hackathon Winner  
 📁 Repo: [View on GitHub](https://github.com/VarshiniNeralla/SentimentAnalysis)
+
+---
+
+### 😎 Sunglasses Overlay Web App (OpenCV + Flask)
+> Overlays sunglasses in real-time using Haar cascades and webcam input. Fun + Functional!
+
+🔧 Tech: Flask · OpenCV · HTML/CSS  
+🌐 Live Demo: [Try it Here](https://b6fb11c472d0.ngrok-free.app) *(if active)*  
+📁 Repo: [View on GitHub](https://github.com/VarshiniNeralla/sunglasses-webapp)
 
 ---
 
