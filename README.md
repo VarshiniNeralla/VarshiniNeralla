@@ -18,8 +18,8 @@
 - 🔭 Currently building: Real-time **healthcare dashboards** and **agentic workflows**
 - 🧠 Exploring: **Flask**, **MediaPipe**, **Node.js**, and **deployment pipelines**
 - 💪 Looking to collaborate on: Full-stack apps, AI-integrated tools, and CV-based systems
-- 💡 Projects include: Hospital Ops Dashboard, SmartVision, Sentiment Analyzer
-- 📚 Prepping for: Campus placements, CAT/GATE, and portfolio building
+- 💡 Projects include: Hospital Ops Dashboard, Car Rental System, Sentiment Analyzer
+- 📚 Prepping for: Campus placements
 - 📫 Reach me at: varshinineralla9@gmail.com
 - 🧠 Motto: “Build for real-world impact — not just for grades!”
 
