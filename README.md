@@ -1,91 +1,88 @@
-# 👩‍💻 Varshini Neralla  
-**Final-year Computer Science Student | Full-Stack Developer | AI & Intelligent Systems Builder**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Varshini+Neralla;Full-Stack+Developer;AI+and+Agentic+Systems+Builder;I+Design.+I+Build.+I+Ship." />
+</p>
 
-Welcome — this is the central hub showcasing who I am, what I build, and where I’m headed in software engineering and AI.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+</p>
 
-I build **real-world applications**, **data-driven systems**, and **intelligent tools** focusing on full-stack development, machine learning integrations, and scalable software design.
+## About Me
 
----
+Final-year Computer Science student focused on building real, end-to-end software systems.
 
-## 🧠 About Me
+I work on production-grade full-stack applications, AI-driven systems, and data pipelines that move from raw input to real insights. I care about architecture, clarity, and shipping usable systems — not demos.
 
-I’m a final-year Computer Science student passionate about:
-- Full-stack development (React, Node.js, Angular)
-- Artificial Intelligence & Multi-Agent Systems
-- Data engineering and visualizations
-- Solving real problems with real code
+## What I Build
 
-I enjoy transforming messy ideas into **well-architected, production-ready systems** and continuously stretch my capabilities into AI-driven automation and edge-capable applications.
+AI and Agentic Systems  
+• Multi-agent requirement engineering platforms  
+• Offline AI tutors using local LLMs, RAG, and speech  
+• NLP pipelines for OCR, summarization, and sentiment analysis  
 
----
+Full-Stack Applications  
+• Angular and React dashboards  
+• Role-based platforms  
+• API-driven backend systems  
 
-## 💼 Projects & Highlights
+Data Systems  
+• CSV ingestion to cleaned datasets  
+• Analytics and visualization dashboards  
+• Batch and real-time pipelines  
 
-Below is a snapshot of the key repositories that define my work:
+## Featured Repositories (Pinned)
 
-### 🚀 Featured Major Projects
+ReqArchitect – Agent-driven requirements engineering  
+Offline_Tutor – Fully offline AI learning system  
+RTGSAnalyst – Data ingestion to analytics and insights  
+MediTalk – Workflow and appointment automation  
+InteriorAI – AI-assisted interior visualization  
 
-#### 1. **ReqArchitect**
-> A full-stack, agentic requirements engineering system that automates requirement elicitation, validation, and specification generation using LLMs.  
-Tech: React, FastAPI, CrewAI, LiteLLM (multi-agent orchestration & structured AI integration). :contentReference[oaicite:0]{index=0}
+Pinned repositories are intentional and actively maintained.
 
-#### 2. **Offline_Tutor**
-> A fully offline AI-powered learning platform with local LLM support, multilingual chat, voice interfaces, and chapter-based tutoring — all without internet dependency. :contentReference[oaicite:1]{index=1}
+## Tech Stack
 
-#### 3. **RTGSAnalyst**
-> A domain-agnostic data intelligence platform converting raw CSV sources into cleaned data and real-time visual insights with backend pipelines and frontend dashboards. :contentReference[oaicite:2]{index=2}
+Frontend: React, Angular, TypeScript, HTML, CSS  
+Backend: FastAPI, Node.js, Express  
+AI / ML: LLMs, RAG pipelines, NLP, Agent architectures  
+Data: SQL, analytics, visualization  
+Engineering: Git, modular design, clean architecture, CI/CD basics  
 
-### 🛠️ Utility & Support Projects
+## GitHub Activity
 
-- **SentimentAnalysis** — NLP-powered sentiment classification with data visualization and analysis. :contentReference[oaicite:3]{index=3}  
-- **ComplaintSummarizer** — OCR + NLP for summarizing legal complaint text/images. :contentReference[oaicite:4]{index=4}  
-- **MediTalk** — Appointment scheduling platform with role-based management and email notifications. :contentReference[oaicite:5]{index=5}  
-- **InteriorAI** — Interior design visualization using dynamic placement and realistic visuals. :contentReference[oaicite:6]{index=6}  
-- **CarRentalApp** — Angular-based booking and inventory web app. :contentReference[oaicite:7]{index=7}  
-- **TodoList** & **MediaWiki-Clone** — Classic foundational apps reinforcing coding fundamentals. :contentReference[oaicite:8]{index=8}
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VarshiniNeralla&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-> 🚀 *I build both foundational tools and intelligent platforms – the former sharpens fundamentals, the latter stretches real-world applicability.*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VarshiniNeralla&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshiniNeralla&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🧑‍💻 Tech Stack
+## Contribution Consistency
 
-| Layer | Key Technologies |
-|-------|------------------|
-| Frontend | React, Angular, HTML, CSS, TypeScript |
-| Backend | FastAPI, Node.js, Express |
-| Python | Machine Learning, NLP, Data Pipelines |
-| Databases | SQL (MySQL, Postgres) |
-| AI / LLM | Local and Cloud LLM integrations |
-| DevOps | GitHub Actions, CI/CD basics |
-| Visualization | Charting + Dynamic Dashboards |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarshiniNeralla&theme=tokyonight" />
+</p>
 
----
+## Commit Philosophy
 
-## 📌 How I Work
+Commits are intentional, scoped, and readable.  
+If a commit doesn’t explain why the change exists, it doesn’t belong.
 
-- I design **modular systems** — easy to extend and maintain.
-- I care about **user flows, data integrity, and operational maturity**.
-- I integrate **AI thoughtfully**, not for buzz, but for utility.
+## Current Focus
 
----
+Designing deeper agent-based AI systems  
+Improving system boundaries and reasoning depth  
+Shipping fewer projects with higher quality  
 
-## 📫 Let’s Connect
+## Connect
 
-📍 Visakhapatnam, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/varshinineralla)  
-📧 *Email available on request via LinkedIn*
+Visakhapatnam, India  
+LinkedIn linked on profile  
 
----
-
-## ⭐ GitHub Stats
-
-➡️ *Check my pinned repos above for active work and usage examples.*
-
----
-
-> **Commit Message Principle:**  
-> *Every commit should explain why the change matters.* — This drives clarity in code and intent.
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
+</p>
