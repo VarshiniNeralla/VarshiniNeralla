@@ -108,13 +108,23 @@ Batch & real-time pipelines
 <h2>📈 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarshiniNeralla&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VarshiniNeralla&theme=tokyonight&hide_border=true" width="48%" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VarshiniNeralla&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=VarshiniNeralla&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshiniNeralla&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VarshiniNeralla&layout=compact&theme=tokyonight&hide_border=true"
+    width="50%"
+  />
 </p>
+
 
 ---
 
