@@ -1,88 +1,157 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Varshini+Neralla;Full-Stack+Developer;AI+and+Agentic+Systems+Builder;I+Design.+I+Build.+I+Ship." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&pause=800&color=F7768E&center=true&vCenter=true&width=1000&lines=Varshini+Neralla;Full-Stack+Developer;AI+%26+Agentic+Systems+Builder;Designing+Systems+That+Actually+Work" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140"/>
 </p>
 
-## About Me
-
-Final-year Computer Science student focused on building real, end-to-end software systems.
-
-I work on production-grade full-stack applications, AI-driven systems, and data pipelines that move from raw input to real insights. I care about architecture, clarity, and shipping usable systems — not demos.
-
-## What I Build
-
-AI and Agentic Systems  
-• Multi-agent requirement engineering platforms  
-• Offline AI tutors using local LLMs, RAG, and speech  
-• NLP pipelines for OCR, summarization, and sentiment analysis  
-
-Full-Stack Applications  
-• Angular and React dashboards  
-• Role-based platforms  
-• API-driven backend systems  
-
-Data Systems  
-• CSV ingestion to cleaned datasets  
-• Analytics and visualization dashboards  
-• Batch and real-time pipelines  
-
-## Featured Repositories (Pinned)
-
-ReqArchitect – Agent-driven requirements engineering  
-Offline_Tutor – Fully offline AI learning system  
-RTGSAnalyst – Data ingestion to analytics and insights  
-MediTalk – Workflow and appointment automation  
-InteriorAI – AI-assisted interior visualization  
-
-Pinned repositories are intentional and actively maintained.
-
-## Tech Stack
-
-Frontend: React, Angular, TypeScript, HTML, CSS  
-Backend: FastAPI, Node.js, Express  
-AI / ML: LLMs, RAG pipelines, NLP, Agent architectures  
-Data: SQL, analytics, visualization  
-Engineering: Git, modular design, clean architecture, CI/CD basics  
-
-## GitHub Activity
+<h1 align="center">✨ Turning Ideas into Intelligent Systems ✨</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarshiniNeralla&show_icons=true&theme=tokyonight&hide_border=true" />
+I’m a <b>final-year Computer Science student</b> who builds <b>end-to-end, production-minded software</b>.<br>
+I don’t chase buzzwords — I design, build, and ship systems that solve real problems.
+</p>
+
+---
+
+<h2>🧠 What I Love Building</h2>
+
+<table>
+<tr>
+<td width="33%" align="center">🤖<br><b>AI & Agentic Systems</b><br><br>
+Multi-agent platforms<br>
+Offline AI tutors (LLMs + RAG)<br>
+NLP pipelines (OCR, summarization)
+</td>
+<td width="33%" align="center">🧱<br><b>Full-Stack Apps</b><br><br>
+Angular & React dashboards<br>
+Role-based systems<br>
+API-first backends
+</td>
+<td width="33%" align="center">📊<br><b>Data Intelligence</b><br><br>
+Raw data → insights<br>
+Analytics dashboards<br>
+Batch & real-time pipelines
+</td>
+</tr>
+</table>
+
+---
+
+<h2>🚀 Project Showcase</h2>
+
+<table>
+<tr>
+<th align="left">🌟 Project</th>
+<th align="left">💡 Purpose</th>
+<th align="left">🛠 Focus</th>
+</tr>
+
+<tr>
+<td><b>ReqArchitect</b></td>
+<td>Automated requirement engineering using intelligent agents</td>
+<td>Multi-agent AI · System reasoning</td>
+</tr>
+
+<tr>
+<td><b>Offline_Tutor</b></td>
+<td>Completely offline AI learning platform</td>
+<td>RAG · Local LLMs · Speech</td>
+</tr>
+
+<tr>
+<td><b>RTGSAnalyst</b></td>
+<td>Data ingestion → analytics → visualization</td>
+<td>Data pipelines · Dashboards</td>
+</tr>
+
+<tr>
+<td><b>MediTalk</b></td>
+<td>Healthcare workflow & appointment automation</td>
+<td>Full-stack · Role management</td>
+</tr>
+
+<tr>
+<td><b>InteriorAI</b></td>
+<td>AI-assisted interior visualization</td>
+<td>Visual AI · UX</td>
+</tr>
+
+<tr>
+<td><b>Complaint Summarizer</b></td>
+<td>OCR + NLP based legal text summarization</td>
+<td>NLP · Text intelligence</td>
+</tr>
+
+<tr>
+<td><b>Sentiment Analysis</b></td>
+<td>Text sentiment classification & analytics</td>
+<td>NLP · Visualization</td>
+</tr>
+</table>
+
+---
+
+<h2>🛠 Tech Stack</h2>
+
+<p align="center">
+<b>Frontend:</b> React · Angular · TypeScript · HTML · CSS<br>
+<b>Backend:</b> FastAPI · Node.js · Express<br>
+<b>AI / ML:</b> LLMs · RAG · NLP · Agent Architectures<br>
+<b>Data:</b> SQL · Analytics · Visualization<br>
+<b>Engineering:</b> Git · Modular Design · Clean Architecture
+</p>
+
+---
+
+<h2>📈 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VarshiniNeralla&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VarshiniNeralla&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VarshiniNeralla&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshiniNeralla&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+<h2>🧩 Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarshiniNeralla&theme=tokyonight"/>
+</p>
+
+---
+
+<h2>🧠 Commit Philosophy</h2>
+
+<p align="center">
+Clean commits. Clear intent. Traceable progress.<br>
+<b>If a commit doesn’t explain <i>why</i>, it doesn’t belong.</b>
+</p>
+
+---
+
+<h2>🔥 Currently Exploring</h2>
+
+<ul>
+<li>Advanced agent-based AI systems</li>
+<li>Better system boundaries & reasoning depth</li>
+<li>Shipping fewer projects with higher quality</li>
+</ul>
+
+---
+
+<h2>📫 Let’s Connect</h2>
+
+<p align="center">
+📍 Visakhapatnam, India<br>
+🔗 LinkedIn linked on profile
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshiniNeralla&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## Contribution Consistency
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarshiniNeralla&theme=tokyonight" />
-</p>
-
-## Commit Philosophy
-
-Commits are intentional, scoped, and readable.  
-If a commit doesn’t explain why the change exists, it doesn’t belong.
-
-## Current Focus
-
-Designing deeper agent-based AI systems  
-Improving system boundaries and reasoning depth  
-Shipping fewer projects with higher quality  
-
-## Connect
-
-Visakhapatnam, India  
-LinkedIn linked on profile  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
 </p>
