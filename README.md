@@ -10,7 +10,6 @@
 
 <p align="center">
 I’m a <b>final-year Computer Science student</b> who builds <b>end-to-end, production-minded software</b>.<br>
-I don’t chase buzzwords — I design, build, and ship systems that solve real problems.
 </p>
 
 ---
