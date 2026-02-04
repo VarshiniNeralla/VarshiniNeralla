@@ -109,7 +109,7 @@ Batch & real-time pipelines
 <b>Frontend:</b> React · Angular · TypeScript · HTML · CSS<br>
 <b>Backend:</b> FastAPI · Node.js · Express<br>
 <b>AI / ML:</b> LLMs · RAG · NLP · Agent Architectures<br>
-<b>Data:</b> SQL · Analytics · Visualization<br>
+<b>Data:</b> MongoDB · Firebase · PostgreSQL ·  SQL · Analytics · Visualization<br>
 <b>Engineering:</b> Git · Modular Design · Clean Architecture
 </p>
 
