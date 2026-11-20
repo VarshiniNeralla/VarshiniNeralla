@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&pause=800&color=F7768E&center=true&vCenter=true&width=1000&lines=Varshini+Neralla;Full-Stack+Developer;AI+%26+Agentic+Systems+Builder;Designing+Systems+That+Actually+Work" />
 </p>
 
@@ -150,4 +150,4 @@ Clean commits. Clear intent. Traceable progress.<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
-</p>
+</p> -->
